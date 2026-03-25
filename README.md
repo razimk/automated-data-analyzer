@@ -1,24 +1,4 @@
-# Automated Data Analyser
-
-## 📌 Description
-This project performs automated data analysis and visualization using Python and Streamlit.
-
-## 🚀 Features
-- EDA (Exploratory Data Analysis)
-- Correlation Heatmap
-- Feature Importance Visualization
-- Automated Report Generation
-
-## 🛠 Tech Stack
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Streamlit
-
-## ▶️ Run
-```bash# 🚀 Automated Data Analyser
+# 🚀 Automated Data Analyser
 
 ## 📌 Overview
 An AI-powered data analysis tool built using Python and Streamlit that automates:
@@ -32,10 +12,10 @@ An AI-powered data analysis tool built using Python and Streamlit that automates
 ## 🖼️ Output Screenshots
 
 ### 📊 Correlation Heatmap
-![Correlation](assets/correlation.png)
+![Correlation](correlation.png)
 
 ### 📈 Feature Importance
-![Feature Importance](assets/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ---
 
@@ -61,8 +41,7 @@ An AI-powered data analysis tool built using Python and Streamlit that automates
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/your-username/automated-data-analyzer.git
+git clone https://github.com/razimk/automated-data-analyzer.git
 cd automated-data-analyzer
 pip install -r requirements.txt
-streamlit run app.py
 streamlit run app.py
